@@ -1,4 +1,4 @@
-<img width="1127" height="790" alt="image" src="https://github.com/user-attachments/assets/99984d21-e157-4c98-907b-f7e58ef7c781" /><img width="1127" height="790" alt="image" src="https://github.com/user-attachments/assets/e42388e9-6092-483b-987f-03c3ee806e02" /># Hospital Resource Scheduler Pro
+# Hospital Resource Scheduler Pro
 
 A Python Tkinter-based desktop application for managing hospital doctors, patients, and automated scheduling using a greedy assignment algorithm.
 
@@ -35,10 +35,10 @@ hospital_scheduler_project/
    ```
 
 ## 📸 Screenshots
-<img width="1127" height="790" alt="image" src="https://github.com/user-attachments/assets/5c00c0a9-931d-487d-ac33-b3c1b50ec108" />
-<img width="1127" height="790" alt="image" src="https://github.com/user-attachments/assets/863c192c-98c9-4717-89a6-841ec6f45a1e" />
-<img width="1127" height="790" alt="image" src="https://github.com/user-attachments/assets/ffa37085-7c65-4364-82ad-dd3659750b80" />
-<img width="627" height="540" alt="image" src="https://github.com/user-attachments/assets/460d0371-8e14-4f0a-bc5b-f736867e7db8" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/5c00c0a9-931d-487d-ac33-b3c1b50ec108" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/863c192c-98c9-4717-89a6-841ec6f45a1e" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/ffa37085-7c65-4364-82ad-dd3659750b80" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/460d0371-8e14-4f0a-bc5b-f736867e7db8" />
 
 
 ## 📚 Author
